@@ -13,9 +13,9 @@ humandate: "Feb 4-5 and 8-9, 2020"    # human-readable dates for the workshop (e
 humantime: "12-5PM ET"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-02-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-02-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: [“Ye Li”, “Ece Turnator”, “Madeline R Wrable”, “Daniel Sheehan”, “Christine Malinowski] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Phoebe Ayers”,“Ye Li”, “Ece Turnator”, “Madeline R Wrable”, “Daniel Sheehan”, “Christine Malinowski"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: [“yel@mit.edu”,“turnator@mit.edu”]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+instructor: ["Ye Li", "Ece Turnator", "Madeline R Wrable", "Daniel Sheehan", "Christine Malinowski"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Phoebe Ayers","Ye Li", "Ece Turnator", "Madeline R Wrable", "Daniel Sheehan", "Christine Malinowski"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["yel@mit.edu”,"turnator@mit.edu”]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-02-04-mit  URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
