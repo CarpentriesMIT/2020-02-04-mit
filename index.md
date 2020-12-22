@@ -220,7 +220,7 @@ special instructions.
 {% endif %}
 
 <h2>Registration</h2>
-<p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2020-02-04">https://libcal.mit.edu/calendar/events/carpentries2020-02-04</a>.
+<p>Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2021-02-04">https://libcal.mit.edu/calendar/events/carpentries2021-02-04</a>.
 Registration opens on January 7, 2021. </p>
 
 <p>
